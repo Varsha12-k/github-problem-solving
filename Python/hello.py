@@ -1,3 +1,5 @@
-echo print("Hello GitHub!") > Python\hello.py
+print("Hello GitHub!")
+
+
 
 
